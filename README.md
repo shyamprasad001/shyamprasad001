@@ -14,7 +14,7 @@
 <p>📝 I write about Full Stack Development & AI tools on my blog</p>
 </li>
 <li>
-<p>📧 How to reach me: <strong><a href="mailto:shyamdev@gmail.com">shyamdev@gmail.com</a></strong></p>
+<p>📧 How to reach me: <strong><a href="mailto:iamshyam1911@gmail.com">shyamdev@gmail.com</a></strong></p>
 </li>
 <li>
 <p>⚡ What I like to do: <strong>Building Web Apps, Learning AI, Networking, and Blogging</strong></p>
