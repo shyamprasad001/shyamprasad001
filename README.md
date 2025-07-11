@@ -53,10 +53,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"> 
   </a>
 </p>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shyamprasad001&theme=react&show_icons=true&include_all_commits=true">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamprasad001&theme=react&layout=compact">
-</p>
 <hr>
 <p><a href="https://github.com/shyamprasad001">ShyamMantri</a></p>
 <p>Last Edited on: 31/03/2025</p>
