@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shyam Mantri</h1>
+<h1 align="center">Hi 👋, I'm Shyam Prasad Mantri</h1>
 <h3 align="center">A passionate Full Stack Developer and AI Enthusiast from India 🇮🇳</h3>
 <ul>
 <li>
